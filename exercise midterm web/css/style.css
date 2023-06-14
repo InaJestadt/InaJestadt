@@ -1,0 +1,54 @@
+.header {
+    background-color:#fff79d;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    padding:10px;
+
+}
+
+.imgage-bear {
+    display: flex;
+    justify-content: center;
+    size: 10px;
+    
+}
+
+body {
+
+    background-color: #fff79d;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    max-width: 80%;
+    padding-top: 4em;
+}
+
+.article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px;
+
+}
+
+.nav{
+    background-color:#de98bf ;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: end;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    
+
+}
+
